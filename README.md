@@ -11,15 +11,12 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohamed-ahouzi-6405a519a/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohamed-ahouzi-6405a519a/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahouzimohamed/#gh-light-mode-only)
-<<<<<<< HEAD
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahouzimohamed/#gh-dark-mode-only)
-=======
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahouzimohamed#gh-dark-mode-only)
+
 
 
 ### Languages and Tools:
