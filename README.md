@@ -17,7 +17,11 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohamed-ahouzi-6405a519a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ahouzimohamed/#gh-light-mode-only)
+<<<<<<< HEAD
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ahouzimohamed/#gh-dark-mode-only)
+=======
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ahouzimohamed#gh-dark-mode-only)
+>>>>>>> c2a0a2ecf1e5544b68323423c4ed6d780418ce43
 
 ### Languages and Tools:
 
@@ -48,3 +52,8 @@
 
 ---
 
+<<<<<<< HEAD
+[instagram]: https://www.instagram.com/ahouzimohamed/
+[linkedin]: https://www.linkedin.com/in/mohamed-ahouzi-6405a519a/
+=======
+>>>>>>> c2a0a2ecf1e5544b68323423c4ed6d780418ce43
