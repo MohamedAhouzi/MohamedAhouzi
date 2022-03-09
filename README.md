@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋
+# Hi there, I'm Ahouzi Mohamed - 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -9,11 +9,10 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Learn more about everything 🤣
+- ⚡ Fun fact: I love to play football & watch anime / movies & series
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
